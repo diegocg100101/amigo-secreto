@@ -18,3 +18,4 @@ limpiar(elemento)
 // Función para añadir texto a las listas
 mostrarTexto(elemento, valor)
 ```
+Los archivos index.html y style.css ya fueron proporcionados previamente por la plataforma
